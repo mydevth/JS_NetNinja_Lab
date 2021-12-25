@@ -1,0 +1,7 @@
+{
+    "githubPullRequests.terminalLinksHandler": "github",
+    "githubIssues.ignoreUserCompletionTrigger": [
+        "python",
+        "javascript"
+    ]
+}
