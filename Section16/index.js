@@ -7,4 +7,3 @@ const firebaseConfig = {
     appId: "1:404874363629:web:16a0e33683572e84d1c2e4"
   };
 
-  const kob = 15;
